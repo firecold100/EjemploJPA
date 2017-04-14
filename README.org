@@ -1,0 +1,3 @@
+* Ejemplo JPA
+
+Éste repositorio fue creado con la finalidad de servir como ejemplo para el manejo de JPA junto con Maven.
