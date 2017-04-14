@@ -1,0 +1,15 @@
+urls para hibernate (Que implementa JPA):
+
+http://chuwiki.chuidiang.org/index.php?title=Proyecto_maven_con_hibernate
+
+http://chuwiki.chuidiang.org/index.php?title=Ejemplo_sencillo_con_Hibernate-annotations
+
+http://chuwiki.chuidiang.org/index.php?title=Ejemplo_sencillo_con_Hibernate
+
+https://mvnrepository.com/artifact/org.hibernate/hibernate-core/4.1.4.Final
+
+http://www.javawebtutor.com/articles/jpa/jpa-example-using-maven.php
+
+https://www.youtube.com/watch?v=gFhvihX0Pis
+
+https://www.youtube.com/watch?v=yBxP8DMA5jY
